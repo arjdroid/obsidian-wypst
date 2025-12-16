@@ -192,7 +192,7 @@ npm install wypst@latest
 3. Test thoroughly for any breaking changes in the API
 4. Rebuild: `npm run build`
 
-**Note**: The vypst v0.0.8 release notes indicate a build system change to esbuild, which may affect how the WASM is loaded. Testing is essential.
+**Note**: The wypst v0.0.8 release notes indicate a build system change to esbuild, which may affect how the WASM is loaded. Testing is essential.
 
 ### Option 2: Fork and Rebuild wypst
 
